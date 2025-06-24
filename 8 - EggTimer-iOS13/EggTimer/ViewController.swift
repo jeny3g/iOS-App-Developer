@@ -22,9 +22,9 @@ class ViewController: UIViewController {
     var secondsPassed = 0
 
     let eggTimes = [
-        "Soft": 3,
-        "Medium": 4,
-        "Hard": 7
+        "Soft": 300,
+        "Medium": 420,
+        "Hard": 720
     ]
         
     @IBAction func hardnessSelected(_ sender: UIButton) {
